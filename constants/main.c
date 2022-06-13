@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 int main(){
 
-    printf("%f", floor(36.656));
+    printf("%d", 90);
 
     return 0;
 }
